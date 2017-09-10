@@ -1,0 +1,7 @@
+{
+  "name": "blur-image",
+  "version": "0.0.1",
+  "dependencies": {
+    "imagemagick": "0.1.3"
+  }
+}
